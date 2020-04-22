@@ -9,17 +9,17 @@
         <value>Planets</value>
     </caseValues>
     <fields>
-        <label><!-- Has a Ring System? --></label>
+        <label></label>
         <name>Has_a_Ring_System__c</name>
     </fields>
     <fields>
-        <label><!-- Mass --></label>
+        <label></label>
         <name>Mass__c</name>
     </fields>
     <layouts>
         <layout>Gas Giants</layout>
         <sections>
-            <label><!-- Custom Links --></label>
+            <label></label>
             <section>Custom Links</section>
         </sections>
     </layouts>
